@@ -46,9 +46,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(89, 132);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(102, 13);
+            this.label2.Size = new System.Drawing.Size(150, 13);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Last updated: never";
+            this.label2.Text = "Last updated: 3/5/15 5:30 pm";
             // 
             // Form1
             // 
